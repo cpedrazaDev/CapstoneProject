@@ -4,6 +4,3 @@ Cailyn - Lead Designer
 Aydden - Database Management  
 Katheryne - Pivot  
 Teertha - Pivot  
-
-(Placeholder Roles)
-
