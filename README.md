@@ -1,8 +1,9 @@
 # PTECH Capstone Project
-Katheryne - Project Manager  
-Teertha - Database Management  
-Codah - Lead Developer  
+Codah - Lead Developer/Project Lead 
 Cailyn - Lead Designer  
+Aydden - Database Management
+Katheryne - Pivot
+Teertha - Pivot
 
 (Placeholder Roles)
 
